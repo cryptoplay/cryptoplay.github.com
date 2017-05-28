@@ -7,6 +7,8 @@ cryptoplay.github.com
 
 The source code of http://cryptoplay.github.io/
 
+Check it our images on Docker Hub: https://hub.docker.com/u/cryptoplay/
+
 LICENSE
 ------------
 
